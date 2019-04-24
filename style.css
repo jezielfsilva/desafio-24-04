@@ -1,0 +1,62 @@
+.principal {
+	background-color: #B0E0E6;
+	width: 97vw;
+	height: 97vh;
+	position: relative;
+}
+
+.casa {
+	background-color: #ADFF2F;
+	width: 40vw;
+	height: 40vh;
+	position: absolute;
+	top: 100px;
+	left: 300px;
+}
+
+.porta {
+	background-color: #363636;
+	width: 6vw;
+	height: 20vh;
+	position: absolute;
+	top: 233px;
+	left: 700px;
+}
+
+.janela-um {
+	background-color: #556B2F;
+	width: 8vw;
+	height: 10vh;
+	position: absolute;
+	top: 240px;
+	left: 360px;
+}
+
+.janela-dois {
+	background-color: #556B2F;
+	width: 8vw;
+	height: 10vh;
+	position: absolute;
+	top: 240px;
+	left: 530px;
+}
+
+.telhado {
+	background-color: #B0E0E6;
+	width: 38vw;
+	height: 10vh;
+	position: absolute;
+	top: 100px;
+	left: 272px;
+	 border-left: 42px solid transparent; 
+  border-right: 42px solid transparent; 
+  border-bottom: 40px solid #800000; 
+}
+
+.rio {
+	background-color: #008080;
+	width: 97vw;
+	height: 20vh;
+	position: fixed;
+	bottom: 30px;
+}

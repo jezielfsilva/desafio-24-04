@@ -1,0 +1,76 @@
+.principal {
+	width: 97vw;
+	height: 97vh;
+	background-color: #BDB76B;
+	position: relative;
+}
+
+.monstro {
+	width: 14vw;
+	height: 30vh;
+	background-color: #FF4500;
+	position: absolute;
+	border-radius: 225px;
+	top: 70px;
+	left: 120px;
+}
+
+.olho-direito {
+	width: 4vw;
+	height: 8vh;
+	background-color: #EEE8AA;
+	position: absolute;
+	border-radius: 225px;
+	top: 60px;
+	left: 100px;
+}
+
+.olho-esquerdo {
+	width: 4vw;
+	height: 8vh;
+	background-color: #EEE8AA;
+	position: absolute;
+	border-radius: 225px;
+	top: 60px;
+	left: 30px;
+}
+
+.interior-direito {
+	width: 2vw;
+	height: 4vh;
+	background-color: #1C1C1C;
+	position: absolute;
+	border-radius: 225px;
+	top: 26px;
+	left: 8px;
+}
+
+.interior-esquerdo {
+	width: 2vw;
+	height: 4vh;
+	background-color: #1C1C1C;
+	position: absolute;
+	border-radius: 225px;
+	top: 26px;
+	left: 18px;
+}
+
+.boca-monstro {
+	width: 10vw;
+	height: 6vh;
+	background-color: #1C1C1C;
+	position: absolute;
+	top: 130px;
+	left: 28px;
+ 	border-radius: 100px / 38px; 
+}
+
+.corpo-monstro {
+	width: 14vw;
+	height: 40vh;
+	background-color: #FF4500;
+	position: absolute;
+	border-radius: 225px;
+	top: 188px;
+	left: 120px;
+}
